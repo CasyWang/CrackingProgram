@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1416467742 source:e:\codeblockside\stack\main.cpp
+	<iostream>
+	<Stack.h>
+	<stdlib.h>
+
+1416466225 source:e:\codeblockside\stack\src\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1416464155 e:\codeblockside\stack\include\stack.h
+
