@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1416475346 source:e:\codeblockside\twostackqueue\main.cpp
+	<iostream>
+	<Stack.h>
+	<stdlib.h>
+
+1416475124 source:e:\codeblockside\twostackqueue\src\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1416475096 e:\codeblockside\twostackqueue\include\stack.h
+
