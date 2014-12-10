@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1418200796 source:e:\codeblockside\memmanager\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
